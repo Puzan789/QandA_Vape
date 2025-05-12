@@ -53,7 +53,7 @@ If any attribute is not available in the context, return "NAN" for that attribut
     async def extract(
         self,
         csv_file: str = "vapewholesalesusa_data.csv",
-        output_json: str = "structured_output.jsonl",
+        output_json: str = "structured_output.json",
     ):
         df = pd.read_csv(csv_file)
 
