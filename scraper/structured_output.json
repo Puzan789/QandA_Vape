@@ -1,100 +1,2070 @@
-{"brand": "Lost Angel", "model": "Lost Angel Mate 50K", "flavor": ["Berry Bliss", "Blue Razz Ice", "Fcuking Fab", "Ice Mintz", "Strawberry Banana", "Strawberry Ice", "Blackberry B-Pop", "Blueberry Watermelon", "Frappe", "Miami Mint", "Tropical Bloom", "Watermelon Ice"], "puff_count": "50000", "nicotine_strength": "50mg/ml", "battery_capacity": "1200mAh", "coil_type": "Dual Mesh", "category": "Juice"}
-{"brand": "Fifty Bar", "model": "Fifty Bar V2 20K Disposable", "flavor": ["Butterbean", "Raspberry Jam", "Baja Slushie", "Green Apple Blast", "Strawmelon Twist"], "puff_count": "20000", "nicotine_strength": "5% (50mg)", "battery_capacity": "800mAh", "coil_type": "Dual Parallel Mesh Coil", "category": "Juice"}
-{"brand": "Lost Mary", "model": "X-CUBE", "flavor": ["Bangin' Peach", "Bangin' Watermelon", "Blue Razz Ice", "Dragon Strawnana", "Florida Sherbet", "Hawaiian Popsicle", "Miami Mint", "Rocket Popsicle"], "puff_count": "25000", "nicotine_strength": "50mg", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Pod Salt", "model": "Onyx", "flavor": ["Blue Mist", "Blueberry Muffin", "Butterscotch", "Cola Lemon Lime", "Double Apple", "Fizzy Lemon", "Fresh Raspberry Mojito", "Glazed Donut", "Grape Berry Burst", "Lemon Sugar Cookie", "Miami Mint", "Pineapple Passion Lime", "Spearmint", "Strawberries & Cream", "Sweet Strawberry Lemonade", "White Gummy Bear"], "puff_count": "25,000", "nicotine_strength": "5%", "battery_capacity": "1000mAh", "coil_type": "Triple Mesh Coil", "category": "Juice Pod Salt"}
-{"brand": "Memers", "model": "V40K", "flavor": ["Peach Ice", "Sour Apple", "Blue Razz Ice", "Mexico Mango", "Mixed Berry", "Miami Mint", "White Gum", "Pina Colada", "Watermelon Ice", "Strawberry Ice"], "puff_count": "40,000", "nicotine_strength": "50mg/ml (5%)", "battery_capacity": "2600mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "HQD", "model": "Cuvie Glaze", "flavor": ["Black Dragon", "Blue Razz", "Crazi Berry", "Grape", "Lush Ice", "Pineapple Strawnana", "Strawberry Banana", "Strawberry Watermelon", "Tobacco", "Triple Berry", "Watermelon Nana Ice", "Blueberry Lemonade", "Fruity & Milky", "Apple Cinna & Milk", "Berry & Milk"], "puff_count": "15000", "nicotine_strength": "5% or 50 mg/mL", "battery_capacity": "650 mAh", "coil_type": "mesh coil", "category": "Juice"}
-{"brand": "JUICE HEAD", "model": "Flex Freeze", "flavor": ["Cherry Bomb", "Meta Moon", "Mexico Mango", "Miami Mint", "Raspberry Limeade", "Sour Apple", "Sour Fcuking Fab", "Strawberry Banana", "White Peach Raspberry", "Clear"], "puff_count": "50,000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Triple Mesh Coil", "category": "Juice"}
-{"brand": "Rifbar", "model": "MixPro 40K Disposable Vape", "flavor": ["Blue Razz Ice", "Miami Mint", "Pink Slushy", "Sour Apple Ice", "Watermelon Ice", "Cherry Strazz", "Peach Mango Pineapple", "Triple Berry Ice", "White Gummy", "Blackberry B-Pop"], "puff_count": "40,000", "nicotine_strength": "5%", "battery_capacity": "850mAh", "coil_type": "Triple Mesh Coil", "category": "Juice"}
-{"brand": "Geek Bar", "model": "Pulse X Jam Edition", "flavor": ["Strawberry Jam", "Peach Jam", "Orange Jam", "Blueberry Jam", "Raspberry Jam"], "puff_count": "25000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Dual Mesh Coil", "category": "Juice"}
-{"brand": "RAZ", "model": "LTX 25,000 Puffs Disposable Punch Edition", "flavor": ["fruity"], "puff_count": "25,000", "nicotine_strength": "5%", "battery_capacity": "800mAh", "coil_type": "NAN", "category": "Disposables"}
-{"brand": "DigiFlavor", "model": "BRK 20,000 Puffs Disposable Kit", "flavor": ["NAN"], "puff_count": "20,000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Dual Mesh Coil", "category": "Disposables"}
-{"brand": "MemersBrand", "model": "Memers V40K Puff Disposable", "flavor": ["Blue Razz Ice", "Mexico Mango", "Miami Mint", "Mixed Berry", "Peach Ice", "Pina Colada", "Sour Apple", "Strawberry Ice", "Watermelon Ice", "White Gum"], "puff_count": "40000", "nicotine_strength": "NAN", "battery_capacity": "2600mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Vaporesso", "model": "Dojo iMate X 20,000", "flavor": ["Baja Splash", "Blue Razz Ice", "Blue Straw Splash", "Hawaii Dream", "Mango Straw", "Miami Mint", "Peachy Smash", "Pink Lemonade", "Sour Apple B-Pop", "Sour Batch Watermelon Peach", "Sour Cranapple", "Sour Gush", "Strawberry Slam Dunk", "Watermelon Ice", "White Grape Ice"], "puff_count": "20,000", "nicotine_strength": "5%", "battery_capacity": "400mAh", "coil_type": "NAN", "category": "Disposable Kit"}
-{"brand": "Vaporesso", "model": "Dojo iMate X 20,000", "flavor": ["Baja Splash", "Blue Razz Ice", "Blue Straw Splash", "Hawaii Dream", "Mango Straw", "Miami Mint", "Peachy Smash", "Pink Lemonade", "Sour Apple B-Pop", "Sour Batch Watermelon Peach", "Sour Cranapple", "Sour Gush", "Strawberry Slam Dunk", "Watermelon Ice", "White Grape Ice"], "puff_count": "20,000", "nicotine_strength": "5%", "battery_capacity": "1300mAh", "coil_type": "NAN", "category": "Disposable Kit"}
-{"brand": "Vanmo", "model": "VM35000 Disposable", "flavor": ["NAN"], "puff_count": "35000", "nicotine_strength": "5%", "battery_capacity": "950mAh", "coil_type": "Dual Mesh Coils", "category": "Disposables"}
-{"brand": "KangVape", "model": "Speedy Beast X", "flavor": ["Fug Mint", "Strawb Lover", "Blue Razz Iced", "Miami Mint", "Peach O's Rings", "Vintage OG", "Ruby Delight", "Blue Laffi Taffi", "Heaven in a Cup", "Caribbean Nights", "Lime Romance", "Heaven Bar", "Cran Citrus", "Island Punch", "Fasttime", "Rosy Dauphine", "Red & Green Fusion", "Midnight Aurora", "Tropical Starburst"], "puff_count": "60,000", "nicotine_strength": "3%", "battery_capacity": "NAN", "coil_type": "2X Mesh Coils", "category": "Disposable"}
-{"brand": "Geek Bar", "model": "Pulse X Slush Edition", "flavor": ["Grape Slush", "Cola Slush", "Wild Cherry Slush", "Orange Slush", "Peach Perfect Slush"], "puff_count": "25000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Dual Mesh Coil", "category": "Juice"}
-{"brand": "SMOK", "model": "Space Man SP40000 Disposable Vape Planet Edition", "flavor": ["Island Punch", "Maui Mango", "Miami Mint", "Sour Strawberry Pop", "Sour Watermelon Patch", "Strawnana"], "puff_count": "40000", "nicotine_strength": "50mg", "battery_capacity": "1000mAh", "coil_type": "Dual Mesh Coil", "category": "Juice"}
-{"brand": "Uwell", "model": "Viscore C30000 Disposable", "flavor": "NAN", "puff_count": "30000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Dual Mesh Coils", "category": "Disposables"}
-{"brand": "RIA", "model": "NV30K", "flavor": ["Blue Razz Ice", "Blueberry Punch", "Crazy Berry", "Dualicious", "Fcuking Fab", "Miami Mint", "Peach Gummy", "Pineapple Lime", "Pink Raz Lemonade", "Sour Strawberry Dragon", "Watermelon B-Pop", "Watermelon Ice"], "puff_count": "30000", "nicotine_strength": "5%", "battery_capacity": "1000mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Beri", "model": "Beri Crush", "flavor": ["Banana Taffy", "Strawberry Watermelon", "Triple Berry", "Summer Glacier", "White Strawberry", "Strawberry Cream", "Watermelon Ice", "Blue Razz Ice", "Miami Mint", "Tropical Gummy", "Green Apple", "Grape Ice", "Mango Bomb", "Super Mint", "Cherry B-Pop"], "puff_count": "50,000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Quad Coil Technology", "category": "Juice"}
-{"brand": "Kangertech", "model": "Kanger SUBOX", "flavor": ["Blueberry Razz Lemon", "Bubble Gum", "Cherry Lemon", "Grape Ice", "Kiwi Passion Fruit Guava", "Lemon Mint", "Lucid Dream", "Lush Ice", "Mango Freeze", "Mango Orange Guava", "Miami Mint", "Mixed Berries", "Peach Ice", "Peach Mango Watermelon", "Strawberry Kiwi", "Strawberry Pitaya", "Two Apple Shisha", "Watermelon Mint"], "puff_count": "50,000", "nicotine_strength": "NAN", "battery_capacity": "900mAh", "coil_type": "0.5ohm Resistance", "category": "Juice"}
-{"brand": "Air Bar", "model": "Air Bar Diamond Spark", "flavor": ["Cool Mint", "Miami Mint", "Clear", "Frozen Watermelon", "Frozen Strawberry", "Juicy Peach Ice", "Love Story", "Fucking Fab", "Blue Razz Ice", "Blueberry Ice", "Grape Ice", "Virginia Tobacco", "Sour Apple Ice", "Strawberry Watermelon"], "puff_count": "15000", "nicotine_strength": "5%", "battery_capacity": "600mAh", "coil_type": "Advanced Pre-Heating Mesh Coil", "category": "Juice"}
-{"brand": "Cali Pods", "model": "UL20000 Black Series", "flavor": ["Strawberry Mango", "Tropical Blast", "Blueberry Watermelon", "Frozen Sour Apple", "Fcuking Fab", "Blue Mint", "Baja Blast", "Meta Moon", "Crazy Melon", "Frozen White Grape", "Sour Blue Dust", "Blue Blast", "OMG B-Pop"], "puff_count": "20000", "nicotine_strength": "5%", "battery_capacity": "900mAh", "coil_type": "Dual Mesh Coil", "category": "Disposables"}
-{"brand": "Adjust", "model": "MySour 40,000 Puffs Disposable", "flavor": ["MySour"], "puff_count": "40,000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Triple Mesh Coil", "category": "Disposables"}
-{"brand": "Wynn Bar", "model": "Wynn Bar 4 Adjust", "flavor": ["Strawberry Kiwi Ice", "White Gummy Ice", "Blue Razz Watermelon Ice", "Peach Berry Ice", "Sour Apple", "Watermelon Ice", "Juicy Peach", "Blue Razz Ice", "Cinnamon Banana Cream Pie", "Pineapple Apple Pear", "Strawberry Banana", "Strawberry Watermelon", "Berries Cheese Cake", "Miami Mint", "Sakura Grape"], "puff_count": "50000", "nicotine_strength": "5%", "battery_capacity": "880mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Aloha Sun", "model": "RODMAN Playoffs", "flavor": ["Blue Razz Cotton", "Glacier Mint", "Glacier Gummy", "Honeydew Strawberry", "Mango Lychee Ice", "Strawberry Cream", "Sour Watermelon Gummy", "White Peach Ice", "White Grape Ice", "Watermelon Apple"], "puff_count": "50,000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Dual Mesh Coil", "category": "Disposables"}
-{"brand": "RAZ", "model": "RYL Classic", "flavor": ["Icy Mint", "Rainbow", "Raspberry Watermelon", "Peach Passionfruit", "Orange Mango", "Miami Mint", "Sour Strawberry", "Watermelon Ice", "White Yummy Ice", "Blue Raz Ice", "Triple Berry", "Sour Apple"], "puff_count": "35,000", "nicotine_strength": "50mg", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Pachamama", "model": "Pachamama 25,000 puffs disposable", "flavor": ["Blue Razz Ice", "Blueberry Burst", "Clear", "F'N Apple", "Grape Ice", "Juicy Mango", "Mint Mojito", "Mystic Ice", "Orange Passion Ice", "Peach Berry", "Sour Apple Ice", "Strawberry Cherry", "Strawberry Kiwi", "Strazz", "Watermelon Ice"], "puff_count": "25,000", "nicotine_strength": "5%", "battery_capacity": "1000mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Pillow Talk", "model": "Sour Control SC40000 Puff Disposable", "flavor": ["Sour Blue Dust", "Sour Cranapple", "Sour Strawberry", "Tangy Pineapple", "Sour Strawberry Dragon", "Sour Watermelon Gummies"], "puff_count": "40000", "nicotine_strength": "NAN", "battery_capacity": "1000mAh", "coil_type": "Triple Mesh Coil", "category": "Juice"}
-{"brand": "Melta", "model": "Oral Nicotine Strips", "flavor": ["Banana", "Orange", "Peppermint", "Raspberry", "Spearmint", "Strawberry", "Vanilla"], "puff_count": "NAN", "nicotine_strength": "2mg (2%)", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Oral Nicotine Strips"}
-{"brand": "Lost Vape", "model": "Orion Bar", "flavor": ["NAN"], "puff_count": "50,000", "nicotine_strength": "5%", "battery_capacity": "920mAh", "coil_type": "NAN", "category": "Disposables"}
-{"brand": "Luffbar", "model": "Luffbar Flare 40,000 Puffs Disposable", "flavor": "NAN", "puff_count": "40,000", "nicotine_strength": "5%", "battery_capacity": "850mAh", "coil_type": "Dual Mesh Coil", "category": "Disposables"}
-{"brand": "Freemax", "model": "MIXO", "flavor": ["Apple/Grape Ice", "Blackberry/Strawberry Mint Ice", "Blueberry/Raspberry Ice", "Grapefruit/Lemon Ice", "Green Apple/Red Apple Ice", "Lime/Cactus Ice", "Pineapple/Coconut Ice", "Strawberry/Banana Ice", "Sweet Mint/Ice Mint Ice", "Watermelon/Lush Ice"], "puff_count": "40000", "nicotine_strength": "50mg", "battery_capacity": "1300mAh", "coil_type": "NAN", "category": "Juice Free"}
-{"brand": "The Puff Brands", "model": "Hotbox Elite 50,000 Puff Disposable", "flavor": ["Baja Splash", "Banana Cream Cake", "Blue Slushee", "Blueberry Watermelon", "Grape Pop", "Hawaiian Rainbow", "Merica' Pop", "Mexicali Mango", "Miami Mint", "Sour F@ckin' Fab", "Sour Strawberry Slushee", "Sour Watermelon Slushee", "Strawnana Slushee", "Tiger Blood"], "puff_count": "50,000", "nicotine_strength": "50mg", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Off-Stamp", "model": "X-CUBE", "flavor": ["Bangin Peach", "Bangin Watermelon", "Blue Razz Ice", "Dragon Strawnana", "Florida Sherbet", "Hawaiian Popsicle", "Miami Mint", "Rocket Popsicle", "Blue Razz Blow Pop", "Lemon Heads", "Sour Lush Gummy", "Strawberry Rolls Up", "Grape Rancher", "Sour Berry Bubblegum", "Sour Wildberry Gummy", "Wintergreen Candy"], "puff_count": "25,000", "nicotine_strength": "50mg", "battery_capacity": "NAN", "coil_type": "Dual Mesh Coil", "category": "Juice"}
-{"brand": "Pillow Talk", "model": "SC40000", "flavor": ["Cherry Strawberry", "Dragon Strawberry Banana", "Juicy Peach", "Miami Mint", "Tropical Mango", "Watermelon Lemon Berry"], "puff_count": "40000", "nicotine_strength": "5%", "battery_capacity": "1000mAh", "coil_type": "Triple Mesh Coil", "category": "Juice"}
-{"brand": "Pillow Talk", "model": "NC40000", "flavor": ["Cool Mint", "Spearmint", "Virginia Tobacco", "Pure Clear", "Pure Tobacco", "Winter Green"], "puff_count": "40,000", "nicotine_strength": "5%", "battery_capacity": "700mAh", "coil_type": "Dual NEO Mesh Coil", "category": "Juice"}
-{"brand": "Zayn", "model": "Zayn Disposable Vape", "flavor": ["Peach Mango Watermelon", "Simply Mint", "Strawnana", "Juicy Peach Ice", "Mr. Red", "Watermelon Ice", "Strawberry Watermelon", "Miami Mint", "Strawberry Lover", "Cucumber Coconut", "Fcking Fab", "Mexico Mango", "Blue Razz Ice", "Lady Killer", "Blue Razz Cherry Ice"], "puff_count": "40,000", "nicotine_strength": "5% (50mg)", "battery_capacity": "NAN", "coil_type": "Dual Mesh", "category": "Juice"}
-{"brand": "RAZ", "model": "LTX", "flavor": ["Tropical Gush", "White Grape Gush", "Blue RAZ Gush", "Strawberry Peach Gush", "Triple Berry Gush"], "puff_count": "25000", "nicotine_strength": "NAN", "battery_capacity": "800mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "MemersBrandMemers", "model": "Wukong V20,000", "flavor": ["Blueberry Gum", "Strawberry Punch", "Grape Mint", "Lemon Mint", "White Flash", "Lush Ice", "Magic Love", "Peach Ice", "Grape Ice", "Cherry Fiesta", "Lady Killer", "Passionfruit Mango Ice", "Blue Raspberry Lemon", "Berry Ice", "Double Apple"], "puff_count": "20,000", "nicotine_strength": "5%", "battery_capacity": "1000mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Air Bar", "model": "Aura", "flavor": ["Lemon Mint", "Blueberry Ice", "Love Story", "Cool Mint", "Clear", "Sour Apple Ice", "Juicy Peach Ice", "Tobacco", "Blue Mint", "Juicy Watermelon Ice", "Sakura Grape", "Blue Razz Ice", "Miami Mint", "Blackberry Fab"], "puff_count": "25000", "nicotine_strength": "NAN", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Juice"}
-{"brand": "OXBAR", "model": "NIC Switch 35K Puff Disposable", "flavor": ["NAN"], "puff_count": "35000", "nicotine_strength": "0%~5%", "battery_capacity": "900mAh", "coil_type": "Dual Independent Mesh Coils", "category": "Juice Pod Juice"}
-{"brand": "Geek Bar", "model": "Geek Bar Pulse Mintz Edition", "flavor": ["IceyMintz", "CreamyMintz", "BlackMintz", "StoneMintz", "PepperMintz"], "puff_count": "15,000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Dual Mesh Coil", "category": "Juice"}
-{"brand": "Off-Stamp", "model": "X-CUBE", "flavor": ["Bangin Peach", "Bangin Watermelon", "Blue Razz Ice", "Dragon Strawnana", "Florida Sherbet", "Hawaiian Popsicle", "Miami Mint", "Rocket Popsicle"], "puff_count": "25,000", "nicotine_strength": "50mg", "battery_capacity": "1100mAh", "coil_type": "Dual Mesh Coil", "category": "Disposable Kit"}
-{"brand": "HECOO", "model": "Space DTL Expert", "flavor": ["Hazelnut Coffee", "Strawberry Banana", "Blue Razz", "Strawberry Gum", "Mixed Berry", "Cherry Cola Ice", "Grape Lollipop", "Watermelon Ice", "Spearmint", "Mango Kiss", "Kiwi Passion Fruit", "Strawberry Watermelon", "Blueberry Cranberry", "Sour Apple", "Glazed Donut"], "puff_count": "30,000", "nicotine_strength": "6%", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Tyson", "model": "Tyson 2.0", "flavor": ["Apple Melon Berry", "Blue Razz", "Clear", "Cool Mint", "Frozen Banana", "Frozen Blueberry", "Frozen Grape", "Frozen Mango", "Frozen Peach", "Frozen Strawberry", "Green Apple", "Menthol", "Strawberry Banana", "Strawberry Watermelon", "Tobacco", "Watermelon"], "puff_count": "30,000", "nicotine_strength": "5%", "battery_capacity": "850mAh", "coil_type": "Triple Mesh Coil", "category": "Juice"}
-{"brand": "Artery", "model": "CL6", "flavor": ["Black Cherry", "Blue Razz", "Blueberry Watermelon", "Miami Mint", "Orange Cranberry Berries", "Peach", "Sour Apple", "Strawberry Banana", "Strawberry Cherry Raspberry", "Vimto", "Watermelon Lemon Gummy", "White Gummy"], "puff_count": "50,000", "nicotine_strength": "NAN", "battery_capacity": "1150mAh", "coil_type": "Quad Mesh Coil", "category": "Juice"}
-{"brand": "Off-Stamp", "model": "SW16000 Smart Kit Device", "flavor": ["Blue Razz Ice", "Sour Lush Gummy", "Miami Mint", "Dragon Strawnana", "Juicy Peach"], "puff_count": "16000", "nicotine_strength": "5%", "battery_capacity": "900mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Yovo", "model": "Starwalk", "flavor": ["Raspberry Watermelon", "Cool Mint", "Wintergreen", "Triple Berry", "Sour Orange Patch", "Dragon Fruit Lemonade", "Watermelon Ice", "Sour Strawberry", "Frozen Banana", "Blue Razz Ice", "White Gummy", "Sour Watermelon Worms"], "puff_count": "40000", "nicotine_strength": "Low / Regular / Strong", "battery_capacity": "850mAh", "coil_type": "Dual Mesh Coils", "category": "Juice"}
-{"brand": "Tyson", "model": "Tyson 2.0", "flavor": ["Watermelon", "Very Berry", "Strawberry Watermelon", "Strawberry Banana", "Raspberry Watermelon", "Peach Watermelon", "Peach Mango", "Lush Freeze", "Green Apple", "Grape Razz", "Frozen Strawberry", "Frozen Peach", "Frozen Mango", "Frozen Grape", "Frozen Blueberry", "Cool Mint", "Blue Razz", "Apple Peach"], "puff_count": "2000", "nicotine_strength": "5%", "battery_capacity": "550mAh", "coil_type": "Fyre Mesh Coil", "category": "Juice"}
-{"brand": "Geek Bar", "model": "Pulse X Meteor Edition", "flavor": ["Pink and Blue", "Strawberry Kiwi", "ATL Mint", "Orange Dragon", "Strawberry Watermelon"], "puff_count": "15000", "nicotine_strength": "5%", "battery_capacity": "820mAh", "coil_type": "Dual-Mesh Coils", "category": "Juice"}
-{"brand": "RAZ", "model": "LTX 25,000 Puffs Disposable Christmas Edition", "flavor": ["NAN"], "puff_count": "25,000", "nicotine_strength": "5%", "battery_capacity": "800mAh", "coil_type": "NAN", "category": "Disposables"}
-{"brand": "PUFFEZY", "model": "Planet X", "flavor": ["Blue Razz Ice", "Crazy Melon", "Frozen Cherry Apple", "Frozen Pina Colada", "Frozen Strawberry", "Miami Mint", "Sour Apple Ice", "Strawberry Banana", "Watermelon Ice", "White Gummy Ice"], "puff_count": "25000", "nicotine_strength": "5%", "battery_capacity": "800mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "FUMI", "model": "24K", "flavor": ["Blue Razz Ice", "Fresh Mint", "Peach Mango", "Rainbow", "Strawberry Banana", "Vanilla Coffee Ice", "Watermelon Ice"], "puff_count": "24000", "nicotine_strength": "0mg (0%)", "battery_capacity": "680mAh", "coil_type": "Dual Mesh 1.0ohmx2", "category": "Juice"}
-{"brand": "FUMI", "model": "FUMI 24,000 Puffs Disposable", "flavor": ["Blue Razz Ice", "Fresh Mint", "Peach Mango", "Rainbow", "Strawberry Banana", "Vanilla Coffee Ice", "Watermelon Ice"], "puff_count": "24,000", "nicotine_strength": "50mg (5%)", "battery_capacity": "680mAh", "coil_type": "Dual Mesh 1.0ohmx2", "category": "Juice"}
-{"brand": "SKE", "model": "SKE Viseion 30000 Disposable Vape kit", "flavor": ["Arctic Ice", "Blue Raspberry", "Blueberry Watermelon", "Miami Mint", "Mint", "Pacific Ice", "Peach Mango", "Pineapple Peach Lemon", "Pop Blast", "Sour Apple", "Strawberry Kiwi", "Strawberry Mango", "Strawnana", "Watermelon Ice", "White Bear Gummies"], "puff_count": "30000", "nicotine_strength": "5%", "battery_capacity": "850mAh", "coil_type": "Advanced Crystal Mesh Coils", "category": "Juice"}
-{"brand": "RAZ", "model": "Raz LTX Zero 25000 Disposable", "flavor": ["Bangin Sour Berries", "Blueberry Watermelon", "New York Mint", "Razzle Dazzle", "Strawberry Burst"], "puff_count": "25000", "nicotine_strength": "0%", "battery_capacity": "800mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "IGET", "model": "KP20000", "flavor": ["NAN"], "puff_count": "20000", "nicotine_strength": "5%", "battery_capacity": "650mAh", "coil_type": "1.3ohm Mesh Coil", "category": "Disposables"}
-{"brand": "HQD", "model": "Everest", "flavor": ["Black Dragonfruit", "Black Ice", "Blue Raspberry Grape", "Blue Raspberry Lemon", "Cherry Lemon", "Clear", "Dragon Candy", "Grape", "Kiwi Watermelon", "Lush Ice", "Miami Mint", "Mix Berries", "Raspberry Watermelon Lemon", "Straw Raspberry Gummy", "Strawberry Raspberry Ice", "Tobacco", "Candy Apple (Halloween Edition)", "Dark Grape Mint (Halloween Edition)", "Gummy Mummy (Halloween Edition)", "Midnight Mint (Halloween Edition)", "Pumpkin Spice Latte (Halloween Edition)"], "puff_count": "25000", "nicotine_strength": "5%", "battery_capacity": "850", "coil_type": "NAN", "category": "Juice"}
-{"brand": "SMOK", "model": "Space Man SP40000", "flavor": ["Blackberry Razz", "Blue Razz Ice", "Cherry Pomegranate", "Clear", "Fresh Mint", "Juicy Peach Watermelon", "Lemon Pop", "Pink Lemonade", "Root Beer", "Sour Mango Honey Dew", "Strawberry Kiwi", "Watermelon Ice", "White Grape Ice", "Fresh Mint(Zero Nicotine)", "Sour Apple Ice(Zero Nicotine)", "Strawberry Ice(Zero Nicotine)"], "puff_count": "40000", "nicotine_strength": "0% (0mg) | 5% (50mg)", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Juice"}
-{"brand": "AirMez", "model": "X-Beats", "flavor": ["Sour Mango Pineapple", "Raspberry Peach Lime", "Cool Mint - Banna Taffy Freeze", "Blackberry B-Pop", "Strawberry B-Pop", "Sour Apple Ice", "Miami Mint", "Ice Pop", "Blue Rancher", "Watermelon Ice", "Sour Fucking Fab", "Alt Mint", "Lemon Heads", "Blue Razz Ice"], "puff_count": "40000", "nicotine_strength": "5% (50mg)", "battery_capacity": "NAN", "coil_type": "Gen 2 Dual Mesh Coils", "category": "Juice"}
-{"brand": "Adjust", "model": "Mysweet", "flavor": ["Blue Razz B-Pop", "Lemon Heads", "Juicy Peach Ice", "Raspberry Orange", "Triple Berry", "Wintergreen Savers", "Watermelon Roll Ups"], "puff_count": "40,000", "nicotine_strength": "50mg (5%)", "battery_capacity": "850mAh", "coil_type": "Triple Mesh Coil", "category": "Disposable Vape"}
-{"brand": "Fifty Bar", "model": "Fruitia Disposable", "flavor": ["B Pop", "Baja Burst", "Blueberry Pound Cake", "Bonker Berries", "Cookie Butter", "Hawaii'n Punch", "Polar Ice", "Sour Batch", "Southern Tobacco", "Spearmint", "Strawberry Beltz", "Swedish"], "puff_count": "20000", "nicotine_strength": "50mg", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Juice"}
-{"brand": "GeekVape", "model": "Raz LTX 25000 Disposable", "flavor": ["Blueberry Watermelon", "Iced Blue Dragon", "Black Cherry Peach", "Sour Apple Watermelon", "Sour Apple Ice", "Watermelon Ice", "Night Crawler", "Frozen Raspberry Watermelon", "Miami Mint", "Cherry Strapple", "Wintergreen", "Tobacco", "Strawberry Kiwi Pear", "Clear Sapphire", "Sour Watermelon Peach", "Clear Diamond", "Mango Loco", "Frozen Juicy Strawberry", "Frozen Dragonfruit Lemon", "Pink Lemonade Minty Os", "Frozen Banana", "Blue Razz Ice", "Razzle Dazzle", "Fire and Ice", "Rainbow Rain", "Clear", "Raspberry Limeade", "Georgia Peach", "Bangin Sour Berries", "Frozen Cherry Apple", "Strawberry Orange Tang", "New York Mint", "Peppermint Candy Cane", "Watermelon Ice", "Strawberry Burst", "Orange Mango"], "puff_count": "25000", "nicotine_strength": "NAN", "battery_capacity": "NAN", "coil_type": "mesh coil", "category": "Juice"}
-{"brand": "Adjust", "model": "MyFlavor 40,000 Puffs Disposable", "flavor": ["NAN"], "puff_count": "40,000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Disposables"}
-{"brand": "SPACE MARY", "model": "MA25000 Disposable", "flavor": ["Cherry Lemon", "Berry Twist", "Strawberry Banana", "Georgia Peach", "Cherry Strazz", "Blue Razz Ice", "Watermelon Ice", "Miami Mint", "Cool Mint", "Blueberry Watermelon", "Strawberry Ice", "Fcuking Fab"], "puff_count": "25000", "nicotine_strength": "5% (50mg)", "battery_capacity": "800mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Vaporesso", "model": "DOJO Sphere X", "flavor": "NAN", "puff_count": "40000", "nicotine_strength": "5%", "battery_capacity": "1100mAh", "coil_type": "NAN", "category": "Disposables"}
-{"brand": "North", "model": "North Stellar 40K Puffs Disposable Vape", "flavor": ["Tropical Rainbow Blast", "Sour Fcuking Fab", "Sour Apple Ice", "Crazy Melon", "Miami Mint", "Mexican Mango", "Lime Berry Orange", "Juicy Peach Ice", "Grape Lemon", "Grape Blow Pop", "Dragon Melon", "Pink Lemonade", "Blueberry Watermelon", "Blue Razz", "Blackberry Blueberry", "Black Cherry", "Berry Bliss", "Banana Taffy Freeze", "Watermelon Ice"], "puff_count": "40000", "nicotine_strength": "5% (50mg)", "battery_capacity": "750mAh", "coil_type": "NAN", "category": "Disposable Vape"}
-{"brand": "DigiFlavor", "model": "BRK 20,000 Puffs Disposable Pod", "flavor": ["NAN"], "puff_count": "20,000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Dual Mesh Coils", "category": "Disposables"}
-{"brand": "Geek Bar", "model": "Geek Bar Meloso", "flavor": ["NAN"], "puff_count": "30,000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Dual Mesh Coils", "category": "Disposables"}
-{"brand": "Geek Bar", "model": "Geek Bar Pulse ZERO", "flavor": ["Strawberry B-Pop", "Watermelon Ice", "Blue Razz Ice", "Fcuking Fab", "Miami Mint"], "puff_count": "15000", "nicotine_strength": "0mg", "battery_capacity": "650mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Pod Juice", "model": "SVOPP", "flavor": ["NAN"], "puff_count": "30000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Disposables"}
-{"brand": "Pillow Talk", "model": "IC40000 Disposable Crystal Edition", "flavor": ["Cherry Lemon", "Mexican Mango", "Blue Rancher", "Mochi Bear", "Tropical Sunset", "Craazzyy Melon", "Raspberry Watermelon Refresher", "Frozen Strawberry", "Meta Moon", "Purple Galaxy", "Sour Watermelon Gummies", "Strawberry Blow Pop", "Strawberry Spritzer", "W.O.P."], "puff_count": "40000", "nicotine_strength": "5%", "battery_capacity": "700mAh", "coil_type": "NAN", "category": "Disposables"}
-{"brand": "NEXA", "model": "Nexa Ultra 50,000 Puffs Disposable", "flavor": ["Blue Razz Ice", "Cool Mint", "Strawberry Banana", "Watermelon Ice", "Strawberry Ice", "Sour Apple Ice", "Cherry Bomb", "Blueberry Watermelon", "White Gummy Ice", "Fcuking Fab", "Triple Berry", "Miami Mint", "Georgia Peach Ice", "B-Pop", "Mango Oasis", "Watermelon Phantom", "Peach Luna", "Mint Mancer", "Berry Siren", "Blue Wizard", "Sour Watermelon", "Dragon Melon", "Cinna Roll", "Winter Green", "Pink n Blue", "Strawberry Colada", "Guava Pineapple Shake", "Citrus Bliss"], "puff_count": "50000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Disposables"}
-{"brand": "MNKE Bars", "model": "MNKE Bars XL ZERO", "flavor": ["Blue Kiwi Ice", "Blue Razz Iced", "Fresh Mint", "Grape Iced", "Melons Iced", "Mango Iced", "Rain Bops", "Straw Guaw Iced", "Strawberry Cake", "Strawmelon", "Grapple Iced", "Watermelon Gummy", "White Gummy", "Yummy Gummy"], "puff_count": "25000", "nicotine_strength": "0mg", "battery_capacity": "1000mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Foger", "model": "Switch Pro", "flavor": ["NAN"], "puff_count": "30000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Disposables"}
-{"brand": "Goat Bar", "model": "Goat Bar Disposable", "flavor": ["Blue Slush", "Cherry Fizz", "Grape Aloe", "Guava Lava", "High Sea", "Kiwi Berry", "Magic Mango", "Mega Mint", "Mount Fuji", "White Gummy"], "puff_count": "25000", "nicotine_strength": "5%", "battery_capacity": "650mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Geek Bar", "model": "Pulse Sour Edition Disposable", "flavor": ["Sour Apple Cranberries", "Sour Watermelon Drop", "Sour Strawberry", "Sour Gush"], "puff_count": "15000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Dual Mesh Coil", "category": "Juice"}
-{"brand": "OXBAR", "model": "OXBAR x Pod Juice ICE-NIC Control 35,000 Puffs Disposable", "flavor": ["Fruity Pebz", "Golden Reserve Tobacco", "Green Apple Burst", "Jewel Cane Mint", "Jewel Mighty Mint", "Jolly Blue Pop", "Jolly Watermelon", "Pink Strawberry Burst", "Rocket Pop", "Sour Peachy O's", "Strawberry Orange Pop", "Strawberry Pink Cherry", "Strawberry Shortcake", "Watermelon Apple Gush", "White Gummy Watermelon"], "puff_count": "35000", "nicotine_strength": "5% (50mg)", "battery_capacity": "900mAh", "coil_type": "Dual Mesh Coil", "category": "Juice"}
-{"brand": "North", "model": "North Vision 15000 Puff", "flavor": ["Blue Razz", "Blue Slurpie", "Blueberry Watermelon", "Cherry Cola", "Grape Blow Pop", "Juicy Peach", "Mango Dragon Fruit", "Miami Mint", "Mighty Mint", "Strawberry Mango", "Tropical Rainbow Blast", "Watermelon Ice"], "puff_count": "15000", "nicotine_strength": "0%", "battery_capacity": "15mL", "coil_type": "next-generation mesh coil", "category": "Juice"}
-{"brand": "Fasta", "model": "Burst", "flavor": ["White Grape (Frozen)", "Fcuking FAB (Soda)", "Mexico Mango (Frozen)", "Blue Razz (Frozen)", "Miami Mint (Frozen)", "Meta Moon (Soda)", "Peach Mango Watermelon (Frozen)", "Sour Apple (Frozen)", "Blueberry Watermelon (Frozen)", "Grape B-Pop (Soda)", "Juicy Peach Ice (Soda)", "Lime Sparkle (Soda)", "Strawberry Banana (Frozen)", "Watermelon (Frozen)"], "puff_count": "35000", "nicotine_strength": "5% (50mg)", "battery_capacity": "850mAh", "coil_type": "Advanced Dual Mesh Coils", "category": "Juice"}
-{"brand": "Geek Bar", "model": "Digiflavor SKY", "flavor": ["Blackberry Fcuking Fab", "Blue Razz Ice", "Cherry Lemon-Mint", "Cherry Strazz", "Grape Ice", "Miami Mint", "Peach Blue Slushy", "Peach Raspberry", "Sky Walker", "Sour Apple Ice", "Sour Watermelon Blue Razz", "Strawberry Banana", "Strawberry Ice", "Strawberry Watermelon Coconut", "Triple Berry", "Twisted B-Pop"], "puff_count": "25,000", "nicotine_strength": "5%", "battery_capacity": "800 mAh", "coil_type": "Dual Mesh Coil", "category": "Juice"}
-{"brand": "UPENDS", "model": "CD30,000 Puffs Disposable", "flavor": ["Sour Apple", "Strawberry Banana", "Grape Ice", "Miami Mint", "Blue Raz Ice", "Strawberry Watermelon", "Strawberry Mango", "Pink Burst", "Blueberry Watermelon", "Triple Berry", "Watermelon Ice"], "puff_count": "30,000", "nicotine_strength": "NAN", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Juice"}
-{"brand": "AdjustBrand", "model": "Mycool 40,000 Puffs Disposable", "flavor": ["Tigers Blood", "Watermelon Ice", "Cherry Strazz", "Scary Berry", "Cherry Fuse", "Mango Magic", "Summer Splash", "Sour Apple Ice", "Blue Razz Ice", "Baja Splash", "Peach+Dragon Strawnana", "Sour Strawberry Dragonfruit", "Miami Mint", "Sour Lush Gummy"], "puff_count": "40000", "nicotine_strength": "50 mg/ml", "battery_capacity": "850 mAh", "coil_type": "Mesh Coil", "category": "Juice"}
-{"brand": "Foger", "model": "Foger Switch Pro Kit", "flavor": "NAN", "puff_count": "30000", "nicotine_strength": "50mg/ml", "battery_capacity": "1050mAh", "coil_type": "1.0 ohm Dual Mesh", "category": "Juice"}
-{"brand": "iJoy", "model": "SD40000", "flavor": ["Pineapple Kiwi", "Watermelon Ice", "Cotton Candy", "Strawberry Ice Cubes", "Blueberry Ice", "Strawberry Banana", "Gummy Bears", "Miami Mint", "Blueberry Watermelon", "B-POP"], "puff_count": "40000", "nicotine_strength": "50mg", "battery_capacity": "750mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Tech Bar", "model": "25000 Puffs Disposable", "flavor": ["Apple Pie", "Banana Candy", "Banana Ice", "Blue Raspberry Blackberry Ice", "Blue Razz Ice", "Blue Razz Lemonade", "Fucking Fab", "Mango Ice", "Miami Mint", "Strawberry Kiwi", "Strawberry Mango", "Vanilla Ice Cream", "Watermelon Ice"], "puff_count": "25000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Disposable"}
-{"brand": "All Star Vape", "model": "NAN", "flavor": ["Blue Razz Gummy", "Cool Mint", "Double Apple Shisha", "Gummy Bears", "Passion Fruit Lychee", "Pink Lemonade", "Strawberry Watermelon", "Tropical Fruit", "Watermelon Ice", "Whisky Cigar"], "puff_count": "30000", "nicotine_strength": "50mg", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Juice"}
-{"brand": "North", "model": "North Vision 15000 Puffs Rechargeable Disposable", "flavor": ["Blue Razz", "Watermelon Ice", "Mighty Mint", "Strawberry Mango", "Cherry Cola", "Blueberry Watermelon", "Tropical Rainbow Blast", "Blue Slurpie", "Miami Mint", "Juicy Peach", "Grape Blow Pop", "Mango Dragon Fruit", "Cherry Strazz", "Vanilla Tobacco", "Bahama Bliss", "Kiwi Dragon Fruit", "Love Story", "Mexicao Mango", "Strawnana Swirl", "Grapple Twist", "Peachy Pineapple Refresher", "Strawberry Dreamshake", "Cyan Berries", "Gum Mint"], "puff_count": "15000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Mesh Coil", "category": "Disposables"}
-{"brand": "Fifty Bar", "model": "20,000 Puff Disposable", "flavor": ["Gummy Whip", "Kiberry Chew", "Mint", "OMG! Smoothie", "Rainbow Road", "Watermelon Patch", "Blueberry Cereal Donut Milk", "Cinnamon Funnel Cake", "Gold Tobacco", "Milky Loops", "Strawberry Cereal Donut Milk", "Vanilla Custard"], "puff_count": "20,000", "nicotine_strength": "NAN", "battery_capacity": "800 mAh", "coil_type": "NAN", "category": "Disposables"}
-{"brand": "JUICE HEAD", "model": "Juice Head Maxx 10000 Puffs Rechargeable Disposable", "flavor": ["Strawberry Peach Freeze", "Blueberry Lemon Freeze", "Fresh Mint Freeze", "Grape Cooler Freeze", "Watermelon Strawberry", "Tropical Punch", "Kiwi Passionfruit Guava"], "puff_count": "10000", "nicotine_strength": "NAN", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Disposables"}
-{"brand": "VNM", "model": "VNM Ice Mode 30k Puffs Disposable Device", "flavor": ["Bomb Pop", "Baja Blast", "Golden Mango", "Watermelon", "Sour Apple", "Cool Mint", "Juicy Grape", "Miami Vice", "Blue Slushy", "White Gummy"], "puff_count": "30,000", "nicotine_strength": "50mg (5%)", "battery_capacity": "850 mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Memers", "model": "Memers Switcher S22000", "flavor": ["NAN"], "puff_count": "22000", "nicotine_strength": "5%", "battery_capacity": "NAN", "coil_type": "Dual Mesh Coil", "category": "Disposables"}
-{"brand": "Boss Bar", "model": "Presidential", "flavor": ["NAN"], "puff_count": "18000", "nicotine_strength": "5%", "battery_capacity": "900mAh", "coil_type": "Dual Mesh Coils", "category": "Disposables"}
-{"brand": "Lost Mary", "model": "MO20000 PRO Space Limited Edition", "flavor": ["Orange Pomegranate Cranberry", "Pear Drop", "Peppermint", "Pina Colada", "Strawberry Kiwi"], "puff_count": "20000", "nicotine_strength": "5% (50mg)", "battery_capacity": "NAN", "coil_type": "0.9ohm Dual Mesh Coils", "category": "Juice"}
-{"brand": "Thursday", "model": "NAN", "flavor": ["Blue Razz", "Cherry Lemon", "Raspberry", "Cali Mint", "Green Apple Grape", "Mango Banana Smoothie", "Mango Peach", "Orange Lemon Summer", "Strawberry Banana", "Strawberry Coconut", "Watermelon Mint"], "puff_count": "30000", "nicotine_strength": "50mg", "battery_capacity": "800mAh", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Pyro", "model": "Pyro Boost Disposable", "flavor": ["Blue Strawberry", "CA Mint", "Cherry Berry Gum", "Clear", "Coffee", "Honeydew Watermelon", "Strawberry Ice", "Strawberry Mango", "Strawberry Watermelon", "Sweet Menthol"], "puff_count": "25000", "nicotine_strength": "50mg", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Juice"}
-{"brand": "Sigelei", "model": "Smart AC10000", "flavor": ["Grape", "Juicy Peach", "Kiwi Passion Fruit Guava", "Miami Mint", "Pineapple Apple Pear", "Pineapple Lemon", "Pink Melon Ice", "Tropical Fruit"], "puff_count": "10000", "nicotine_strength": "NAN", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Juice"}
-{"brand": "SnowWolf", "model": "Compak Disposable", "flavor": ["Pacific Cooler", "Strawberry Banana Ice", "Strawberry Kiwi", "Strawberry Melon Ice", "Triple Berry Ice", "Watermelon Ice"], "puff_count": "7500", "nicotine_strength": "50mg", "battery_capacity": "NAN", "coil_type": "NAN", "category": "Juice"}
+{
+    "brand": "Lost Angel",
+    "model": "Lost Angel Mate 50K",
+    "flavor": [
+        "Berry Bliss",
+        "Blue Razz Ice",
+        "Fcuking Fab",
+        "Ice Mintz",
+        "Strawberry Banana",
+        "Strawberry Ice",
+        "Blackberry B-Pop",
+        "Blueberry Watermelon",
+        "Frappe",
+        "Miami Mint",
+        "Tropical Bloom",
+        "Watermelon Ice"
+    ],
+    "puff_count": "50000",
+    "nicotine_strength": "50mg/ml",
+    "battery_capacity": "1200mAh",
+    "coil_type": "Dual Mesh",
+    "category": "Juice"
+}
+{
+    "brand": "Fifty Bar",
+    "model": "Fifty Bar V2 20K Disposable",
+    "flavor": [
+        "Butterbean",
+        "Raspberry Jam",
+        "Baja Slushie",
+        "Green Apple Blast",
+        "Strawmelon Twist"
+    ],
+    "puff_count": "20000",
+    "nicotine_strength": "5% (50mg)",
+    "battery_capacity": "800mAh",
+    "coil_type": "Dual Parallel Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Lost Mary",
+    "model": "X-CUBE",
+    "flavor": [
+        "Bangin' Peach",
+        "Bangin' Watermelon",
+        "Blue Razz Ice",
+        "Dragon Strawnana",
+        "Florida Sherbet",
+        "Hawaiian Popsicle",
+        "Miami Mint",
+        "Rocket Popsicle"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "50mg",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Pod Salt",
+    "model": "Onyx",
+    "flavor": [
+        "Blue Mist",
+        "Blueberry Muffin",
+        "Butterscotch",
+        "Cola Lemon Lime",
+        "Double Apple",
+        "Fizzy Lemon",
+        "Fresh Raspberry Mojito",
+        "Glazed Donut",
+        "Grape Berry Burst",
+        "Lemon Sugar Cookie",
+        "Miami Mint",
+        "Pineapple Passion Lime",
+        "Spearmint",
+        "Strawberries & Cream",
+        "Sweet Strawberry Lemonade",
+        "White Gummy Bear"
+    ],
+    "puff_count": "25,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "1000mAh",
+    "coil_type": "Triple Mesh Coil",
+    "category": "Juice Pod Salt"
+}
+{
+    "brand": "Memers",
+    "model": "V40K",
+    "flavor": [
+        "Peach Ice",
+        "Sour Apple",
+        "Blue Razz Ice",
+        "Mexico Mango",
+        "Mixed Berry",
+        "Miami Mint",
+        "White Gum",
+        "Pina Colada",
+        "Watermelon Ice",
+        "Strawberry Ice"
+    ],
+    "puff_count": "40,000",
+    "nicotine_strength": "50mg/ml (5%)",
+    "battery_capacity": "2600mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "HQD",
+    "model": "Cuvie Glaze",
+    "flavor": [
+        "Black Dragon",
+        "Blue Razz",
+        "Crazi Berry",
+        "Grape",
+        "Lush Ice",
+        "Pineapple Strawnana",
+        "Strawberry Banana",
+        "Strawberry Watermelon",
+        "Tobacco",
+        "Triple Berry",
+        "Watermelon Nana Ice",
+        "Blueberry Lemonade",
+        "Fruity & Milky",
+        "Apple Cinna & Milk",
+        "Berry & Milk"
+    ],
+    "puff_count": "15000",
+    "nicotine_strength": "5% or 50 mg/mL",
+    "battery_capacity": "650 mAh",
+    "coil_type": "mesh coil",
+    "category": "Juice"
+}
+{
+    "brand": "JUICE HEAD",
+    "model": "Flex Freeze",
+    "flavor": [
+        "Cherry Bomb",
+        "Meta Moon",
+        "Mexico Mango",
+        "Miami Mint",
+        "Raspberry Limeade",
+        "Sour Apple",
+        "Sour Fcuking Fab",
+        "Strawberry Banana",
+        "White Peach Raspberry",
+        "Clear"
+    ],
+    "puff_count": "50,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Triple Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Rifbar",
+    "model": "MixPro 40K Disposable Vape",
+    "flavor": [
+        "Blue Razz Ice",
+        "Miami Mint",
+        "Pink Slushy",
+        "Sour Apple Ice",
+        "Watermelon Ice",
+        "Cherry Strazz",
+        "Peach Mango Pineapple",
+        "Triple Berry Ice",
+        "White Gummy",
+        "Blackberry B-Pop"
+    ],
+    "puff_count": "40,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "850mAh",
+    "coil_type": "Triple Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Geek Bar",
+    "model": "Pulse X Jam Edition",
+    "flavor": [
+        "Strawberry Jam",
+        "Peach Jam",
+        "Orange Jam",
+        "Blueberry Jam",
+        "Raspberry Jam"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "RAZ",
+    "model": "LTX 25,000 Puffs Disposable Punch Edition",
+    "flavor": [
+        "fruity"
+    ],
+    "puff_count": "25,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "800mAh",
+    "coil_type": "NAN",
+    "category": "Disposables"
+}
+{
+    "brand": "DigiFlavor",
+    "model": "BRK 20,000 Puffs Disposable Kit",
+    "flavor": [
+        "NAN"
+    ],
+    "puff_count": "20,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Disposables"
+}
+{
+    "brand": "MemersBrand",
+    "model": "Memers V40K Puff Disposable",
+    "flavor": [
+        "Blue Razz Ice",
+        "Mexico Mango",
+        "Miami Mint",
+        "Mixed Berry",
+        "Peach Ice",
+        "Pina Colada",
+        "Sour Apple",
+        "Strawberry Ice",
+        "Watermelon Ice",
+        "White Gum"
+    ],
+    "puff_count": "40000",
+    "nicotine_strength": "NAN",
+    "battery_capacity": "2600mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Vaporesso",
+    "model": "Dojo iMate X 20,000",
+    "flavor": [
+        "Baja Splash",
+        "Blue Razz Ice",
+        "Blue Straw Splash",
+        "Hawaii Dream",
+        "Mango Straw",
+        "Miami Mint",
+        "Peachy Smash",
+        "Pink Lemonade",
+        "Sour Apple B-Pop",
+        "Sour Batch Watermelon Peach",
+        "Sour Cranapple",
+        "Sour Gush",
+        "Strawberry Slam Dunk",
+        "Watermelon Ice",
+        "White Grape Ice"
+    ],
+    "puff_count": "20,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "400mAh",
+    "coil_type": "NAN",
+    "category": "Disposable Kit"
+}
+{
+    "brand": "Vaporesso",
+    "model": "Dojo iMate X 20,000",
+    "flavor": [
+        "Baja Splash",
+        "Blue Razz Ice",
+        "Blue Straw Splash",
+        "Hawaii Dream",
+        "Mango Straw",
+        "Miami Mint",
+        "Peachy Smash",
+        "Pink Lemonade",
+        "Sour Apple B-Pop",
+        "Sour Batch Watermelon Peach",
+        "Sour Cranapple",
+        "Sour Gush",
+        "Strawberry Slam Dunk",
+        "Watermelon Ice",
+        "White Grape Ice"
+    ],
+    "puff_count": "20,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "1300mAh",
+    "coil_type": "NAN",
+    "category": "Disposable Kit"
+}
+{
+    "brand": "Vanmo",
+    "model": "VM35000 Disposable",
+    "flavor": [
+        "NAN"
+    ],
+    "puff_count": "35000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "950mAh",
+    "coil_type": "Dual Mesh Coils",
+    "category": "Disposables"
+}
+{
+    "brand": "KangVape",
+    "model": "Speedy Beast X",
+    "flavor": [
+        "Fug Mint",
+        "Strawb Lover",
+        "Blue Razz Iced",
+        "Miami Mint",
+        "Peach O's Rings",
+        "Vintage OG",
+        "Ruby Delight",
+        "Blue Laffi Taffi",
+        "Heaven in a Cup",
+        "Caribbean Nights",
+        "Lime Romance",
+        "Heaven Bar",
+        "Cran Citrus",
+        "Island Punch",
+        "Fasttime",
+        "Rosy Dauphine",
+        "Red & Green Fusion",
+        "Midnight Aurora",
+        "Tropical Starburst"
+    ],
+    "puff_count": "60,000",
+    "nicotine_strength": "3%",
+    "battery_capacity": "NAN",
+    "coil_type": "2X Mesh Coils",
+    "category": "Disposable"
+}
+{
+    "brand": "Geek Bar",
+    "model": "Pulse X Slush Edition",
+    "flavor": [
+        "Grape Slush",
+        "Cola Slush",
+        "Wild Cherry Slush",
+        "Orange Slush",
+        "Peach Perfect Slush"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "SMOK",
+    "model": "Space Man SP40000 Disposable Vape Planet Edition",
+    "flavor": [
+        "Island Punch",
+        "Maui Mango",
+        "Miami Mint",
+        "Sour Strawberry Pop",
+        "Sour Watermelon Patch",
+        "Strawnana"
+    ],
+    "puff_count": "40000",
+    "nicotine_strength": "50mg",
+    "battery_capacity": "1000mAh",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Uwell",
+    "model": "Viscore C30000 Disposable",
+    "flavor": "NAN",
+    "puff_count": "30000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Dual Mesh Coils",
+    "category": "Disposables"
+}
+{
+    "brand": "RIA",
+    "model": "NV30K",
+    "flavor": [
+        "Blue Razz Ice",
+        "Blueberry Punch",
+        "Crazy Berry",
+        "Dualicious",
+        "Fcuking Fab",
+        "Miami Mint",
+        "Peach Gummy",
+        "Pineapple Lime",
+        "Pink Raz Lemonade",
+        "Sour Strawberry Dragon",
+        "Watermelon B-Pop",
+        "Watermelon Ice"
+    ],
+    "puff_count": "30000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "1000mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Beri",
+    "model": "Beri Crush",
+    "flavor": [
+        "Banana Taffy",
+        "Strawberry Watermelon",
+        "Triple Berry",
+        "Summer Glacier",
+        "White Strawberry",
+        "Strawberry Cream",
+        "Watermelon Ice",
+        "Blue Razz Ice",
+        "Miami Mint",
+        "Tropical Gummy",
+        "Green Apple",
+        "Grape Ice",
+        "Mango Bomb",
+        "Super Mint",
+        "Cherry B-Pop"
+    ],
+    "puff_count": "50,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Quad Coil Technology",
+    "category": "Juice"
+}
+{
+    "brand": "Kangertech",
+    "model": "Kanger SUBOX",
+    "flavor": [
+        "Blueberry Razz Lemon",
+        "Bubble Gum",
+        "Cherry Lemon",
+        "Grape Ice",
+        "Kiwi Passion Fruit Guava",
+        "Lemon Mint",
+        "Lucid Dream",
+        "Lush Ice",
+        "Mango Freeze",
+        "Mango Orange Guava",
+        "Miami Mint",
+        "Mixed Berries",
+        "Peach Ice",
+        "Peach Mango Watermelon",
+        "Strawberry Kiwi",
+        "Strawberry Pitaya",
+        "Two Apple Shisha",
+        "Watermelon Mint"
+    ],
+    "puff_count": "50,000",
+    "nicotine_strength": "NAN",
+    "battery_capacity": "900mAh",
+    "coil_type": "0.5ohm Resistance",
+    "category": "Juice"
+}
+{
+    "brand": "Air Bar",
+    "model": "Air Bar Diamond Spark",
+    "flavor": [
+        "Cool Mint",
+        "Miami Mint",
+        "Clear",
+        "Frozen Watermelon",
+        "Frozen Strawberry",
+        "Juicy Peach Ice",
+        "Love Story",
+        "Fucking Fab",
+        "Blue Razz Ice",
+        "Blueberry Ice",
+        "Grape Ice",
+        "Virginia Tobacco",
+        "Sour Apple Ice",
+        "Strawberry Watermelon"
+    ],
+    "puff_count": "15000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "600mAh",
+    "coil_type": "Advanced Pre-Heating Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Cali Pods",
+    "model": "UL20000 Black Series",
+    "flavor": [
+        "Strawberry Mango",
+        "Tropical Blast",
+        "Blueberry Watermelon",
+        "Frozen Sour Apple",
+        "Fcuking Fab",
+        "Blue Mint",
+        "Baja Blast",
+        "Meta Moon",
+        "Crazy Melon",
+        "Frozen White Grape",
+        "Sour Blue Dust",
+        "Blue Blast",
+        "OMG B-Pop"
+    ],
+    "puff_count": "20000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "900mAh",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Disposables"
+}
+{
+    "brand": "Adjust",
+    "model": "MySour 40,000 Puffs Disposable",
+    "flavor": [
+        "MySour"
+    ],
+    "puff_count": "40,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Triple Mesh Coil",
+    "category": "Disposables"
+}
+{
+    "brand": "Wynn Bar",
+    "model": "Wynn Bar 4 Adjust",
+    "flavor": [
+        "Strawberry Kiwi Ice",
+        "White Gummy Ice",
+        "Blue Razz Watermelon Ice",
+        "Peach Berry Ice",
+        "Sour Apple",
+        "Watermelon Ice",
+        "Juicy Peach",
+        "Blue Razz Ice",
+        "Cinnamon Banana Cream Pie",
+        "Pineapple Apple Pear",
+        "Strawberry Banana",
+        "Strawberry Watermelon",
+        "Berries Cheese Cake",
+        "Miami Mint",
+        "Sakura Grape"
+    ],
+    "puff_count": "50000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "880mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Aloha Sun",
+    "model": "RODMAN Playoffs",
+    "flavor": [
+        "Blue Razz Cotton",
+        "Glacier Mint",
+        "Glacier Gummy",
+        "Honeydew Strawberry",
+        "Mango Lychee Ice",
+        "Strawberry Cream",
+        "Sour Watermelon Gummy",
+        "White Peach Ice",
+        "White Grape Ice",
+        "Watermelon Apple"
+    ],
+    "puff_count": "50,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Disposables"
+}
+{
+    "brand": "RAZ",
+    "model": "RYL Classic",
+    "flavor": [
+        "Icy Mint",
+        "Rainbow",
+        "Raspberry Watermelon",
+        "Peach Passionfruit",
+        "Orange Mango",
+        "Miami Mint",
+        "Sour Strawberry",
+        "Watermelon Ice",
+        "White Yummy Ice",
+        "Blue Raz Ice",
+        "Triple Berry",
+        "Sour Apple"
+    ],
+    "puff_count": "35,000",
+    "nicotine_strength": "50mg",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Pachamama",
+    "model": "Pachamama 25,000 puffs disposable",
+    "flavor": [
+        "Blue Razz Ice",
+        "Blueberry Burst",
+        "Clear",
+        "F'N Apple",
+        "Grape Ice",
+        "Juicy Mango",
+        "Mint Mojito",
+        "Mystic Ice",
+        "Orange Passion Ice",
+        "Peach Berry",
+        "Sour Apple Ice",
+        "Strawberry Cherry",
+        "Strawberry Kiwi",
+        "Strazz",
+        "Watermelon Ice"
+    ],
+    "puff_count": "25,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "1000mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Pillow Talk",
+    "model": "Sour Control SC40000 Puff Disposable",
+    "flavor": [
+        "Sour Blue Dust",
+        "Sour Cranapple",
+        "Sour Strawberry",
+        "Tangy Pineapple",
+        "Sour Strawberry Dragon",
+        "Sour Watermelon Gummies"
+    ],
+    "puff_count": "40000",
+    "nicotine_strength": "NAN",
+    "battery_capacity": "1000mAh",
+    "coil_type": "Triple Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Melta",
+    "model": "Oral Nicotine Strips",
+    "flavor": [
+        "Banana",
+        "Orange",
+        "Peppermint",
+        "Raspberry",
+        "Spearmint",
+        "Strawberry",
+        "Vanilla"
+    ],
+    "puff_count": "NAN",
+    "nicotine_strength": "2mg (2%)",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Oral Nicotine Strips"
+}
+{
+    "brand": "Lost Vape",
+    "model": "Orion Bar",
+    "flavor": [
+        "NAN"
+    ],
+    "puff_count": "50,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "920mAh",
+    "coil_type": "NAN",
+    "category": "Disposables"
+}
+{
+    "brand": "Luffbar",
+    "model": "Luffbar Flare 40,000 Puffs Disposable",
+    "flavor": "NAN",
+    "puff_count": "40,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "850mAh",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Disposables"
+}
+{
+    "brand": "Freemax",
+    "model": "MIXO",
+    "flavor": [
+        "Apple/Grape Ice",
+        "Blackberry/Strawberry Mint Ice",
+        "Blueberry/Raspberry Ice",
+        "Grapefruit/Lemon Ice",
+        "Green Apple/Red Apple Ice",
+        "Lime/Cactus Ice",
+        "Pineapple/Coconut Ice",
+        "Strawberry/Banana Ice",
+        "Sweet Mint/Ice Mint Ice",
+        "Watermelon/Lush Ice"
+    ],
+    "puff_count": "40000",
+    "nicotine_strength": "50mg",
+    "battery_capacity": "1300mAh",
+    "coil_type": "NAN",
+    "category": "Juice Free"
+}
+{
+    "brand": "The Puff Brands",
+    "model": "Hotbox Elite 50,000 Puff Disposable",
+    "flavor": [
+        "Baja Splash",
+        "Banana Cream Cake",
+        "Blue Slushee",
+        "Blueberry Watermelon",
+        "Grape Pop",
+        "Hawaiian Rainbow",
+        "Merica' Pop",
+        "Mexicali Mango",
+        "Miami Mint",
+        "Sour F@ckin' Fab",
+        "Sour Strawberry Slushee",
+        "Sour Watermelon Slushee",
+        "Strawnana Slushee",
+        "Tiger Blood"
+    ],
+    "puff_count": "50,000",
+    "nicotine_strength": "50mg",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Off-Stamp",
+    "model": "X-CUBE",
+    "flavor": [
+        "Bangin Peach",
+        "Bangin Watermelon",
+        "Blue Razz Ice",
+        "Dragon Strawnana",
+        "Florida Sherbet",
+        "Hawaiian Popsicle",
+        "Miami Mint",
+        "Rocket Popsicle",
+        "Blue Razz Blow Pop",
+        "Lemon Heads",
+        "Sour Lush Gummy",
+        "Strawberry Rolls Up",
+        "Grape Rancher",
+        "Sour Berry Bubblegum",
+        "Sour Wildberry Gummy",
+        "Wintergreen Candy"
+    ],
+    "puff_count": "25,000",
+    "nicotine_strength": "50mg",
+    "battery_capacity": "NAN",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Pillow Talk",
+    "model": "SC40000",
+    "flavor": [
+        "Cherry Strawberry",
+        "Dragon Strawberry Banana",
+        "Juicy Peach",
+        "Miami Mint",
+        "Tropical Mango",
+        "Watermelon Lemon Berry"
+    ],
+    "puff_count": "40000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "1000mAh",
+    "coil_type": "Triple Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Pillow Talk",
+    "model": "NC40000",
+    "flavor": [
+        "Cool Mint",
+        "Spearmint",
+        "Virginia Tobacco",
+        "Pure Clear",
+        "Pure Tobacco",
+        "Winter Green"
+    ],
+    "puff_count": "40,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "700mAh",
+    "coil_type": "Dual NEO Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Zayn",
+    "model": "Zayn Disposable Vape",
+    "flavor": [
+        "Peach Mango Watermelon",
+        "Simply Mint",
+        "Strawnana",
+        "Juicy Peach Ice",
+        "Mr. Red",
+        "Watermelon Ice",
+        "Strawberry Watermelon",
+        "Miami Mint",
+        "Strawberry Lover",
+        "Cucumber Coconut",
+        "Fcking Fab",
+        "Mexico Mango",
+        "Blue Razz Ice",
+        "Lady Killer",
+        "Blue Razz Cherry Ice"
+    ],
+    "puff_count": "40,000",
+    "nicotine_strength": "5% (50mg)",
+    "battery_capacity": "NAN",
+    "coil_type": "Dual Mesh",
+    "category": "Juice"
+}
+{
+    "brand": "RAZ",
+    "model": "LTX",
+    "flavor": [
+        "Tropical Gush",
+        "White Grape Gush",
+        "Blue RAZ Gush",
+        "Strawberry Peach Gush",
+        "Triple Berry Gush"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "NAN",
+    "battery_capacity": "800mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "MemersBrandMemers",
+    "model": "Wukong V20,000",
+    "flavor": [
+        "Blueberry Gum",
+        "Strawberry Punch",
+        "Grape Mint",
+        "Lemon Mint",
+        "White Flash",
+        "Lush Ice",
+        "Magic Love",
+        "Peach Ice",
+        "Grape Ice",
+        "Cherry Fiesta",
+        "Lady Killer",
+        "Passionfruit Mango Ice",
+        "Blue Raspberry Lemon",
+        "Berry Ice",
+        "Double Apple"
+    ],
+    "puff_count": "20,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "1000mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Air Bar",
+    "model": "Aura",
+    "flavor": [
+        "Lemon Mint",
+        "Blueberry Ice",
+        "Love Story",
+        "Cool Mint",
+        "Clear",
+        "Sour Apple Ice",
+        "Juicy Peach Ice",
+        "Tobacco",
+        "Blue Mint",
+        "Juicy Watermelon Ice",
+        "Sakura Grape",
+        "Blue Razz Ice",
+        "Miami Mint",
+        "Blackberry Fab"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "NAN",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "OXBAR",
+    "model": "NIC Switch 35K Puff Disposable",
+    "flavor": [
+        "NAN"
+    ],
+    "puff_count": "35000",
+    "nicotine_strength": "0%~5%",
+    "battery_capacity": "900mAh",
+    "coil_type": "Dual Independent Mesh Coils",
+    "category": "Juice Pod Juice"
+}
+{
+    "brand": "Geek Bar",
+    "model": "Geek Bar Pulse Mintz Edition",
+    "flavor": [
+        "IceyMintz",
+        "CreamyMintz",
+        "BlackMintz",
+        "StoneMintz",
+        "PepperMintz"
+    ],
+    "puff_count": "15,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Off-Stamp",
+    "model": "X-CUBE",
+    "flavor": [
+        "Bangin Peach",
+        "Bangin Watermelon",
+        "Blue Razz Ice",
+        "Dragon Strawnana",
+        "Florida Sherbet",
+        "Hawaiian Popsicle",
+        "Miami Mint",
+        "Rocket Popsicle"
+    ],
+    "puff_count": "25,000",
+    "nicotine_strength": "50mg",
+    "battery_capacity": "1100mAh",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Disposable Kit"
+}
+{
+    "brand": "HECOO",
+    "model": "Space DTL Expert",
+    "flavor": [
+        "Hazelnut Coffee",
+        "Strawberry Banana",
+        "Blue Razz",
+        "Strawberry Gum",
+        "Mixed Berry",
+        "Cherry Cola Ice",
+        "Grape Lollipop",
+        "Watermelon Ice",
+        "Spearmint",
+        "Mango Kiss",
+        "Kiwi Passion Fruit",
+        "Strawberry Watermelon",
+        "Blueberry Cranberry",
+        "Sour Apple",
+        "Glazed Donut"
+    ],
+    "puff_count": "30,000",
+    "nicotine_strength": "6%",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Tyson",
+    "model": "Tyson 2.0",
+    "flavor": [
+        "Apple Melon Berry",
+        "Blue Razz",
+        "Clear",
+        "Cool Mint",
+        "Frozen Banana",
+        "Frozen Blueberry",
+        "Frozen Grape",
+        "Frozen Mango",
+        "Frozen Peach",
+        "Frozen Strawberry",
+        "Green Apple",
+        "Menthol",
+        "Strawberry Banana",
+        "Strawberry Watermelon",
+        "Tobacco",
+        "Watermelon"
+    ],
+    "puff_count": "30,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "850mAh",
+    "coil_type": "Triple Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Artery",
+    "model": "CL6",
+    "flavor": [
+        "Black Cherry",
+        "Blue Razz",
+        "Blueberry Watermelon",
+        "Miami Mint",
+        "Orange Cranberry Berries",
+        "Peach",
+        "Sour Apple",
+        "Strawberry Banana",
+        "Strawberry Cherry Raspberry",
+        "Vimto",
+        "Watermelon Lemon Gummy",
+        "White Gummy"
+    ],
+    "puff_count": "50,000",
+    "nicotine_strength": "NAN",
+    "battery_capacity": "1150mAh",
+    "coil_type": "Quad Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Off-Stamp",
+    "model": "SW16000 Smart Kit Device",
+    "flavor": [
+        "Blue Razz Ice",
+        "Sour Lush Gummy",
+        "Miami Mint",
+        "Dragon Strawnana",
+        "Juicy Peach"
+    ],
+    "puff_count": "16000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "900mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Yovo",
+    "model": "Starwalk",
+    "flavor": [
+        "Raspberry Watermelon",
+        "Cool Mint",
+        "Wintergreen",
+        "Triple Berry",
+        "Sour Orange Patch",
+        "Dragon Fruit Lemonade",
+        "Watermelon Ice",
+        "Sour Strawberry",
+        "Frozen Banana",
+        "Blue Razz Ice",
+        "White Gummy",
+        "Sour Watermelon Worms"
+    ],
+    "puff_count": "40000",
+    "nicotine_strength": "Low / Regular / Strong",
+    "battery_capacity": "850mAh",
+    "coil_type": "Dual Mesh Coils",
+    "category": "Juice"
+}
+{
+    "brand": "Tyson",
+    "model": "Tyson 2.0",
+    "flavor": [
+        "Watermelon",
+        "Very Berry",
+        "Strawberry Watermelon",
+        "Strawberry Banana",
+        "Raspberry Watermelon",
+        "Peach Watermelon",
+        "Peach Mango",
+        "Lush Freeze",
+        "Green Apple",
+        "Grape Razz",
+        "Frozen Strawberry",
+        "Frozen Peach",
+        "Frozen Mango",
+        "Frozen Grape",
+        "Frozen Blueberry",
+        "Cool Mint",
+        "Blue Razz",
+        "Apple Peach"
+    ],
+    "puff_count": "2000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "550mAh",
+    "coil_type": "Fyre Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Geek Bar",
+    "model": "Pulse X Meteor Edition",
+    "flavor": [
+        "Pink and Blue",
+        "Strawberry Kiwi",
+        "ATL Mint",
+        "Orange Dragon",
+        "Strawberry Watermelon"
+    ],
+    "puff_count": "15000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "820mAh",
+    "coil_type": "Dual-Mesh Coils",
+    "category": "Juice"
+}
+{
+    "brand": "RAZ",
+    "model": "LTX 25,000 Puffs Disposable Christmas Edition",
+    "flavor": [
+        "NAN"
+    ],
+    "puff_count": "25,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "800mAh",
+    "coil_type": "NAN",
+    "category": "Disposables"
+}
+{
+    "brand": "PUFFEZY",
+    "model": "Planet X",
+    "flavor": [
+        "Blue Razz Ice",
+        "Crazy Melon",
+        "Frozen Cherry Apple",
+        "Frozen Pina Colada",
+        "Frozen Strawberry",
+        "Miami Mint",
+        "Sour Apple Ice",
+        "Strawberry Banana",
+        "Watermelon Ice",
+        "White Gummy Ice"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "800mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "FUMI",
+    "model": "24K",
+    "flavor": [
+        "Blue Razz Ice",
+        "Fresh Mint",
+        "Peach Mango",
+        "Rainbow",
+        "Strawberry Banana",
+        "Vanilla Coffee Ice",
+        "Watermelon Ice"
+    ],
+    "puff_count": "24000",
+    "nicotine_strength": "0mg (0%)",
+    "battery_capacity": "680mAh",
+    "coil_type": "Dual Mesh 1.0ohmx2",
+    "category": "Juice"
+}
+{
+    "brand": "FUMI",
+    "model": "FUMI 24,000 Puffs Disposable",
+    "flavor": [
+        "Blue Razz Ice",
+        "Fresh Mint",
+        "Peach Mango",
+        "Rainbow",
+        "Strawberry Banana",
+        "Vanilla Coffee Ice",
+        "Watermelon Ice"
+    ],
+    "puff_count": "24,000",
+    "nicotine_strength": "50mg (5%)",
+    "battery_capacity": "680mAh",
+    "coil_type": "Dual Mesh 1.0ohmx2",
+    "category": "Juice"
+}
+{
+    "brand": "SKE",
+    "model": "SKE Viseion 30000 Disposable Vape kit",
+    "flavor": [
+        "Arctic Ice",
+        "Blue Raspberry",
+        "Blueberry Watermelon",
+        "Miami Mint",
+        "Mint",
+        "Pacific Ice",
+        "Peach Mango",
+        "Pineapple Peach Lemon",
+        "Pop Blast",
+        "Sour Apple",
+        "Strawberry Kiwi",
+        "Strawberry Mango",
+        "Strawnana",
+        "Watermelon Ice",
+        "White Bear Gummies"
+    ],
+    "puff_count": "30000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "850mAh",
+    "coil_type": "Advanced Crystal Mesh Coils",
+    "category": "Juice"
+}
+{
+    "brand": "RAZ",
+    "model": "Raz LTX Zero 25000 Disposable",
+    "flavor": [
+        "Bangin Sour Berries",
+        "Blueberry Watermelon",
+        "New York Mint",
+        "Razzle Dazzle",
+        "Strawberry Burst"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "0%",
+    "battery_capacity": "800mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "IGET",
+    "model": "KP20000",
+    "flavor": [
+        "NAN"
+    ],
+    "puff_count": "20000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "650mAh",
+    "coil_type": "1.3ohm Mesh Coil",
+    "category": "Disposables"
+}
+{
+    "brand": "HQD",
+    "model": "Everest",
+    "flavor": [
+        "Black Dragonfruit",
+        "Black Ice",
+        "Blue Raspberry Grape",
+        "Blue Raspberry Lemon",
+        "Cherry Lemon",
+        "Clear",
+        "Dragon Candy",
+        "Grape",
+        "Kiwi Watermelon",
+        "Lush Ice",
+        "Miami Mint",
+        "Mix Berries",
+        "Raspberry Watermelon Lemon",
+        "Straw Raspberry Gummy",
+        "Strawberry Raspberry Ice",
+        "Tobacco",
+        "Candy Apple (Halloween Edition)",
+        "Dark Grape Mint (Halloween Edition)",
+        "Gummy Mummy (Halloween Edition)",
+        "Midnight Mint (Halloween Edition)",
+        "Pumpkin Spice Latte (Halloween Edition)"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "850",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "SMOK",
+    "model": "Space Man SP40000",
+    "flavor": [
+        "Blackberry Razz",
+        "Blue Razz Ice",
+        "Cherry Pomegranate",
+        "Clear",
+        "Fresh Mint",
+        "Juicy Peach Watermelon",
+        "Lemon Pop",
+        "Pink Lemonade",
+        "Root Beer",
+        "Sour Mango Honey Dew",
+        "Strawberry Kiwi",
+        "Watermelon Ice",
+        "White Grape Ice",
+        "Fresh Mint(Zero Nicotine)",
+        "Sour Apple Ice(Zero Nicotine)",
+        "Strawberry Ice(Zero Nicotine)"
+    ],
+    "puff_count": "40000",
+    "nicotine_strength": "0% (0mg) | 5% (50mg)",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "AirMez",
+    "model": "X-Beats",
+    "flavor": [
+        "Sour Mango Pineapple",
+        "Raspberry Peach Lime",
+        "Cool Mint - Banna Taffy Freeze",
+        "Blackberry B-Pop",
+        "Strawberry B-Pop",
+        "Sour Apple Ice",
+        "Miami Mint",
+        "Ice Pop",
+        "Blue Rancher",
+        "Watermelon Ice",
+        "Sour Fucking Fab",
+        "Alt Mint",
+        "Lemon Heads",
+        "Blue Razz Ice"
+    ],
+    "puff_count": "40000",
+    "nicotine_strength": "5% (50mg)",
+    "battery_capacity": "NAN",
+    "coil_type": "Gen 2 Dual Mesh Coils",
+    "category": "Juice"
+}
+{
+    "brand": "Adjust",
+    "model": "Mysweet",
+    "flavor": [
+        "Blue Razz B-Pop",
+        "Lemon Heads",
+        "Juicy Peach Ice",
+        "Raspberry Orange",
+        "Triple Berry",
+        "Wintergreen Savers",
+        "Watermelon Roll Ups"
+    ],
+    "puff_count": "40,000",
+    "nicotine_strength": "50mg (5%)",
+    "battery_capacity": "850mAh",
+    "coil_type": "Triple Mesh Coil",
+    "category": "Disposable Vape"
+}
+{
+    "brand": "Fifty Bar",
+    "model": "Fruitia Disposable",
+    "flavor": [
+        "B Pop",
+        "Baja Burst",
+        "Blueberry Pound Cake",
+        "Bonker Berries",
+        "Cookie Butter",
+        "Hawaii'n Punch",
+        "Polar Ice",
+        "Sour Batch",
+        "Southern Tobacco",
+        "Spearmint",
+        "Strawberry Beltz",
+        "Swedish"
+    ],
+    "puff_count": "20000",
+    "nicotine_strength": "50mg",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "GeekVape",
+    "model": "Raz LTX 25000 Disposable",
+    "flavor": [
+        "Blueberry Watermelon",
+        "Iced Blue Dragon",
+        "Black Cherry Peach",
+        "Sour Apple Watermelon",
+        "Sour Apple Ice",
+        "Watermelon Ice",
+        "Night Crawler",
+        "Frozen Raspberry Watermelon",
+        "Miami Mint",
+        "Cherry Strapple",
+        "Wintergreen",
+        "Tobacco",
+        "Strawberry Kiwi Pear",
+        "Clear Sapphire",
+        "Sour Watermelon Peach",
+        "Clear Diamond",
+        "Mango Loco",
+        "Frozen Juicy Strawberry",
+        "Frozen Dragonfruit Lemon",
+        "Pink Lemonade Minty Os",
+        "Frozen Banana",
+        "Blue Razz Ice",
+        "Razzle Dazzle",
+        "Fire and Ice",
+        "Rainbow Rain",
+        "Clear",
+        "Raspberry Limeade",
+        "Georgia Peach",
+        "Bangin Sour Berries",
+        "Frozen Cherry Apple",
+        "Strawberry Orange Tang",
+        "New York Mint",
+        "Peppermint Candy Cane",
+        "Watermelon Ice",
+        "Strawberry Burst",
+        "Orange Mango"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "NAN",
+    "battery_capacity": "NAN",
+    "coil_type": "mesh coil",
+    "category": "Juice"
+}
+{
+    "brand": "Adjust",
+    "model": "MyFlavor 40,000 Puffs Disposable",
+    "flavor": [
+        "NAN"
+    ],
+    "puff_count": "40,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Disposables"
+}
+{
+    "brand": "SPACE MARY",
+    "model": "MA25000 Disposable",
+    "flavor": [
+        "Cherry Lemon",
+        "Berry Twist",
+        "Strawberry Banana",
+        "Georgia Peach",
+        "Cherry Strazz",
+        "Blue Razz Ice",
+        "Watermelon Ice",
+        "Miami Mint",
+        "Cool Mint",
+        "Blueberry Watermelon",
+        "Strawberry Ice",
+        "Fcuking Fab"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "5% (50mg)",
+    "battery_capacity": "800mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Vaporesso",
+    "model": "DOJO Sphere X",
+    "flavor": "NAN",
+    "puff_count": "40000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "1100mAh",
+    "coil_type": "NAN",
+    "category": "Disposables"
+}
+{
+    "brand": "North",
+    "model": "North Stellar 40K Puffs Disposable Vape",
+    "flavor": [
+        "Tropical Rainbow Blast",
+        "Sour Fcuking Fab",
+        "Sour Apple Ice",
+        "Crazy Melon",
+        "Miami Mint",
+        "Mexican Mango",
+        "Lime Berry Orange",
+        "Juicy Peach Ice",
+        "Grape Lemon",
+        "Grape Blow Pop",
+        "Dragon Melon",
+        "Pink Lemonade",
+        "Blueberry Watermelon",
+        "Blue Razz",
+        "Blackberry Blueberry",
+        "Black Cherry",
+        "Berry Bliss",
+        "Banana Taffy Freeze",
+        "Watermelon Ice"
+    ],
+    "puff_count": "40000",
+    "nicotine_strength": "5% (50mg)",
+    "battery_capacity": "750mAh",
+    "coil_type": "NAN",
+    "category": "Disposable Vape"
+}
+{
+    "brand": "DigiFlavor",
+    "model": "BRK 20,000 Puffs Disposable Pod",
+    "flavor": [
+        "NAN"
+    ],
+    "puff_count": "20,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Dual Mesh Coils",
+    "category": "Disposables"
+}
+{
+    "brand": "Geek Bar",
+    "model": "Geek Bar Meloso",
+    "flavor": [
+        "NAN"
+    ],
+    "puff_count": "30,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Dual Mesh Coils",
+    "category": "Disposables"
+}
+{
+    "brand": "Geek Bar",
+    "model": "Geek Bar Pulse ZERO",
+    "flavor": [
+        "Strawberry B-Pop",
+        "Watermelon Ice",
+        "Blue Razz Ice",
+        "Fcuking Fab",
+        "Miami Mint"
+    ],
+    "puff_count": "15000",
+    "nicotine_strength": "0mg",
+    "battery_capacity": "650mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Pod Juice",
+    "model": "SVOPP",
+    "flavor": [
+        "NAN"
+    ],
+    "puff_count": "30000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Disposables"
+}
+{
+    "brand": "Pillow Talk",
+    "model": "IC40000 Disposable Crystal Edition",
+    "flavor": [
+        "Cherry Lemon",
+        "Mexican Mango",
+        "Blue Rancher",
+        "Mochi Bear",
+        "Tropical Sunset",
+        "Craazzyy Melon",
+        "Raspberry Watermelon Refresher",
+        "Frozen Strawberry",
+        "Meta Moon",
+        "Purple Galaxy",
+        "Sour Watermelon Gummies",
+        "Strawberry Blow Pop",
+        "Strawberry Spritzer",
+        "W.O.P."
+    ],
+    "puff_count": "40000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "700mAh",
+    "coil_type": "NAN",
+    "category": "Disposables"
+}
+{
+    "brand": "NEXA",
+    "model": "Nexa Ultra 50,000 Puffs Disposable",
+    "flavor": [
+        "Blue Razz Ice",
+        "Cool Mint",
+        "Strawberry Banana",
+        "Watermelon Ice",
+        "Strawberry Ice",
+        "Sour Apple Ice",
+        "Cherry Bomb",
+        "Blueberry Watermelon",
+        "White Gummy Ice",
+        "Fcuking Fab",
+        "Triple Berry",
+        "Miami Mint",
+        "Georgia Peach Ice",
+        "B-Pop",
+        "Mango Oasis",
+        "Watermelon Phantom",
+        "Peach Luna",
+        "Mint Mancer",
+        "Berry Siren",
+        "Blue Wizard",
+        "Sour Watermelon",
+        "Dragon Melon",
+        "Cinna Roll",
+        "Winter Green",
+        "Pink n Blue",
+        "Strawberry Colada",
+        "Guava Pineapple Shake",
+        "Citrus Bliss"
+    ],
+    "puff_count": "50000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Disposables"
+}
+{
+    "brand": "MNKE Bars",
+    "model": "MNKE Bars XL ZERO",
+    "flavor": [
+        "Blue Kiwi Ice",
+        "Blue Razz Iced",
+        "Fresh Mint",
+        "Grape Iced",
+        "Melons Iced",
+        "Mango Iced",
+        "Rain Bops",
+        "Straw Guaw Iced",
+        "Strawberry Cake",
+        "Strawmelon",
+        "Grapple Iced",
+        "Watermelon Gummy",
+        "White Gummy",
+        "Yummy Gummy"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "0mg",
+    "battery_capacity": "1000mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Foger",
+    "model": "Switch Pro",
+    "flavor": [
+        "NAN"
+    ],
+    "puff_count": "30000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Disposables"
+}
+{
+    "brand": "Goat Bar",
+    "model": "Goat Bar Disposable",
+    "flavor": [
+        "Blue Slush",
+        "Cherry Fizz",
+        "Grape Aloe",
+        "Guava Lava",
+        "High Sea",
+        "Kiwi Berry",
+        "Magic Mango",
+        "Mega Mint",
+        "Mount Fuji",
+        "White Gummy"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "650mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Geek Bar",
+    "model": "Pulse Sour Edition Disposable",
+    "flavor": [
+        "Sour Apple Cranberries",
+        "Sour Watermelon Drop",
+        "Sour Strawberry",
+        "Sour Gush"
+    ],
+    "puff_count": "15000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "OXBAR",
+    "model": "OXBAR x Pod Juice ICE-NIC Control 35,000 Puffs Disposable",
+    "flavor": [
+        "Fruity Pebz",
+        "Golden Reserve Tobacco",
+        "Green Apple Burst",
+        "Jewel Cane Mint",
+        "Jewel Mighty Mint",
+        "Jolly Blue Pop",
+        "Jolly Watermelon",
+        "Pink Strawberry Burst",
+        "Rocket Pop",
+        "Sour Peachy O's",
+        "Strawberry Orange Pop",
+        "Strawberry Pink Cherry",
+        "Strawberry Shortcake",
+        "Watermelon Apple Gush",
+        "White Gummy Watermelon"
+    ],
+    "puff_count": "35000",
+    "nicotine_strength": "5% (50mg)",
+    "battery_capacity": "900mAh",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "North",
+    "model": "North Vision 15000 Puff",
+    "flavor": [
+        "Blue Razz",
+        "Blue Slurpie",
+        "Blueberry Watermelon",
+        "Cherry Cola",
+        "Grape Blow Pop",
+        "Juicy Peach",
+        "Mango Dragon Fruit",
+        "Miami Mint",
+        "Mighty Mint",
+        "Strawberry Mango",
+        "Tropical Rainbow Blast",
+        "Watermelon Ice"
+    ],
+    "puff_count": "15000",
+    "nicotine_strength": "0%",
+    "battery_capacity": "15mL",
+    "coil_type": "next-generation mesh coil",
+    "category": "Juice"
+}
+{
+    "brand": "Fasta",
+    "model": "Burst",
+    "flavor": [
+        "White Grape (Frozen)",
+        "Fcuking FAB (Soda)",
+        "Mexico Mango (Frozen)",
+        "Blue Razz (Frozen)",
+        "Miami Mint (Frozen)",
+        "Meta Moon (Soda)",
+        "Peach Mango Watermelon (Frozen)",
+        "Sour Apple (Frozen)",
+        "Blueberry Watermelon (Frozen)",
+        "Grape B-Pop (Soda)",
+        "Juicy Peach Ice (Soda)",
+        "Lime Sparkle (Soda)",
+        "Strawberry Banana (Frozen)",
+        "Watermelon (Frozen)"
+    ],
+    "puff_count": "35000",
+    "nicotine_strength": "5% (50mg)",
+    "battery_capacity": "850mAh",
+    "coil_type": "Advanced Dual Mesh Coils",
+    "category": "Juice"
+}
+{
+    "brand": "Geek Bar",
+    "model": "Digiflavor SKY",
+    "flavor": [
+        "Blackberry Fcuking Fab",
+        "Blue Razz Ice",
+        "Cherry Lemon-Mint",
+        "Cherry Strazz",
+        "Grape Ice",
+        "Miami Mint",
+        "Peach Blue Slushy",
+        "Peach Raspberry",
+        "Sky Walker",
+        "Sour Apple Ice",
+        "Sour Watermelon Blue Razz",
+        "Strawberry Banana",
+        "Strawberry Ice",
+        "Strawberry Watermelon Coconut",
+        "Triple Berry",
+        "Twisted B-Pop"
+    ],
+    "puff_count": "25,000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "800 mAh",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "UPENDS",
+    "model": "CD30,000 Puffs Disposable",
+    "flavor": [
+        "Sour Apple",
+        "Strawberry Banana",
+        "Grape Ice",
+        "Miami Mint",
+        "Blue Raz Ice",
+        "Strawberry Watermelon",
+        "Strawberry Mango",
+        "Pink Burst",
+        "Blueberry Watermelon",
+        "Triple Berry",
+        "Watermelon Ice"
+    ],
+    "puff_count": "30,000",
+    "nicotine_strength": "NAN",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "AdjustBrand",
+    "model": "Mycool 40,000 Puffs Disposable",
+    "flavor": [
+        "Tigers Blood",
+        "Watermelon Ice",
+        "Cherry Strazz",
+        "Scary Berry",
+        "Cherry Fuse",
+        "Mango Magic",
+        "Summer Splash",
+        "Sour Apple Ice",
+        "Blue Razz Ice",
+        "Baja Splash",
+        "Peach+Dragon Strawnana",
+        "Sour Strawberry Dragonfruit",
+        "Miami Mint",
+        "Sour Lush Gummy"
+    ],
+    "puff_count": "40000",
+    "nicotine_strength": "50 mg/ml",
+    "battery_capacity": "850 mAh",
+    "coil_type": "Mesh Coil",
+    "category": "Juice"
+}
+{
+    "brand": "Foger",
+    "model": "Foger Switch Pro Kit",
+    "flavor": "NAN",
+    "puff_count": "30000",
+    "nicotine_strength": "50mg/ml",
+    "battery_capacity": "1050mAh",
+    "coil_type": "1.0 ohm Dual Mesh",
+    "category": "Juice"
+}
+{
+    "brand": "iJoy",
+    "model": "SD40000",
+    "flavor": [
+        "Pineapple Kiwi",
+        "Watermelon Ice",
+        "Cotton Candy",
+        "Strawberry Ice Cubes",
+        "Blueberry Ice",
+        "Strawberry Banana",
+        "Gummy Bears",
+        "Miami Mint",
+        "Blueberry Watermelon",
+        "B-POP"
+    ],
+    "puff_count": "40000",
+    "nicotine_strength": "50mg",
+    "battery_capacity": "750mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Tech Bar",
+    "model": "25000 Puffs Disposable",
+    "flavor": [
+        "Apple Pie",
+        "Banana Candy",
+        "Banana Ice",
+        "Blue Raspberry Blackberry Ice",
+        "Blue Razz Ice",
+        "Blue Razz Lemonade",
+        "Fucking Fab",
+        "Mango Ice",
+        "Miami Mint",
+        "Strawberry Kiwi",
+        "Strawberry Mango",
+        "Vanilla Ice Cream",
+        "Watermelon Ice"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Disposable"
+}
+{
+    "brand": "All Star Vape",
+    "model": "NAN",
+    "flavor": [
+        "Blue Razz Gummy",
+        "Cool Mint",
+        "Double Apple Shisha",
+        "Gummy Bears",
+        "Passion Fruit Lychee",
+        "Pink Lemonade",
+        "Strawberry Watermelon",
+        "Tropical Fruit",
+        "Watermelon Ice",
+        "Whisky Cigar"
+    ],
+    "puff_count": "30000",
+    "nicotine_strength": "50mg",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "North",
+    "model": "North Vision 15000 Puffs Rechargeable Disposable",
+    "flavor": [
+        "Blue Razz",
+        "Watermelon Ice",
+        "Mighty Mint",
+        "Strawberry Mango",
+        "Cherry Cola",
+        "Blueberry Watermelon",
+        "Tropical Rainbow Blast",
+        "Blue Slurpie",
+        "Miami Mint",
+        "Juicy Peach",
+        "Grape Blow Pop",
+        "Mango Dragon Fruit",
+        "Cherry Strazz",
+        "Vanilla Tobacco",
+        "Bahama Bliss",
+        "Kiwi Dragon Fruit",
+        "Love Story",
+        "Mexicao Mango",
+        "Strawnana Swirl",
+        "Grapple Twist",
+        "Peachy Pineapple Refresher",
+        "Strawberry Dreamshake",
+        "Cyan Berries",
+        "Gum Mint"
+    ],
+    "puff_count": "15000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Mesh Coil",
+    "category": "Disposables"
+}
+{
+    "brand": "Fifty Bar",
+    "model": "20,000 Puff Disposable",
+    "flavor": [
+        "Gummy Whip",
+        "Kiberry Chew",
+        "Mint",
+        "OMG! Smoothie",
+        "Rainbow Road",
+        "Watermelon Patch",
+        "Blueberry Cereal Donut Milk",
+        "Cinnamon Funnel Cake",
+        "Gold Tobacco",
+        "Milky Loops",
+        "Strawberry Cereal Donut Milk",
+        "Vanilla Custard"
+    ],
+    "puff_count": "20,000",
+    "nicotine_strength": "NAN",
+    "battery_capacity": "800 mAh",
+    "coil_type": "NAN",
+    "category": "Disposables"
+}
+{
+    "brand": "JUICE HEAD",
+    "model": "Juice Head Maxx 10000 Puffs Rechargeable Disposable",
+    "flavor": [
+        "Strawberry Peach Freeze",
+        "Blueberry Lemon Freeze",
+        "Fresh Mint Freeze",
+        "Grape Cooler Freeze",
+        "Watermelon Strawberry",
+        "Tropical Punch",
+        "Kiwi Passionfruit Guava"
+    ],
+    "puff_count": "10000",
+    "nicotine_strength": "NAN",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Disposables"
+}
+{
+    "brand": "VNM",
+    "model": "VNM Ice Mode 30k Puffs Disposable Device",
+    "flavor": [
+        "Bomb Pop",
+        "Baja Blast",
+        "Golden Mango",
+        "Watermelon",
+        "Sour Apple",
+        "Cool Mint",
+        "Juicy Grape",
+        "Miami Vice",
+        "Blue Slushy",
+        "White Gummy"
+    ],
+    "puff_count": "30,000",
+    "nicotine_strength": "50mg (5%)",
+    "battery_capacity": "850 mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Memers",
+    "model": "Memers Switcher S22000",
+    "flavor": [
+        "NAN"
+    ],
+    "puff_count": "22000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "NAN",
+    "coil_type": "Dual Mesh Coil",
+    "category": "Disposables"
+}
+{
+    "brand": "Boss Bar",
+    "model": "Presidential",
+    "flavor": [
+        "NAN"
+    ],
+    "puff_count": "18000",
+    "nicotine_strength": "5%",
+    "battery_capacity": "900mAh",
+    "coil_type": "Dual Mesh Coils",
+    "category": "Disposables"
+}
+{
+    "brand": "Lost Mary",
+    "model": "MO20000 PRO Space Limited Edition",
+    "flavor": [
+        "Orange Pomegranate Cranberry",
+        "Pear Drop",
+        "Peppermint",
+        "Pina Colada",
+        "Strawberry Kiwi"
+    ],
+    "puff_count": "20000",
+    "nicotine_strength": "5% (50mg)",
+    "battery_capacity": "NAN",
+    "coil_type": "0.9ohm Dual Mesh Coils",
+    "category": "Juice"
+}
+{
+    "brand": "Thursday",
+    "model": "NAN",
+    "flavor": [
+        "Blue Razz",
+        "Cherry Lemon",
+        "Raspberry",
+        "Cali Mint",
+        "Green Apple Grape",
+        "Mango Banana Smoothie",
+        "Mango Peach",
+        "Orange Lemon Summer",
+        "Strawberry Banana",
+        "Strawberry Coconut",
+        "Watermelon Mint"
+    ],
+    "puff_count": "30000",
+    "nicotine_strength": "50mg",
+    "battery_capacity": "800mAh",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Pyro",
+    "model": "Pyro Boost Disposable",
+    "flavor": [
+        "Blue Strawberry",
+        "CA Mint",
+        "Cherry Berry Gum",
+        "Clear",
+        "Coffee",
+        "Honeydew Watermelon",
+        "Strawberry Ice",
+        "Strawberry Mango",
+        "Strawberry Watermelon",
+        "Sweet Menthol"
+    ],
+    "puff_count": "25000",
+    "nicotine_strength": "50mg",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "Sigelei",
+    "model": "Smart AC10000",
+    "flavor": [
+        "Grape",
+        "Juicy Peach",
+        "Kiwi Passion Fruit Guava",
+        "Miami Mint",
+        "Pineapple Apple Pear",
+        "Pineapple Lemon",
+        "Pink Melon Ice",
+        "Tropical Fruit"
+    ],
+    "puff_count": "10000",
+    "nicotine_strength": "NAN",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
+{
+    "brand": "SnowWolf",
+    "model": "Compak Disposable",
+    "flavor": [
+        "Pacific Cooler",
+        "Strawberry Banana Ice",
+        "Strawberry Kiwi",
+        "Strawberry Melon Ice",
+        "Triple Berry Ice",
+        "Watermelon Ice"
+    ],
+    "puff_count": "7500",
+    "nicotine_strength": "50mg",
+    "battery_capacity": "NAN",
+    "coil_type": "NAN",
+    "category": "Juice"
+}
