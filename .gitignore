@@ -1,0 +1,25 @@
+venv/
+# Ignore Python virtual environments
+venv/
+.venv/
+
+# Ignore Python bytecode cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore environment variable files
+.env
+.env.*
+!.env.example
+
+
+# Ignore other cache files
+*.pyc
+*.pyd
+*.pyo
+.cache/
+
+notebooks/
+
+chroma_db/
